@@ -1,0 +1,20 @@
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#btnContainer {
+    text-align: center;
+}
+.button{
+    padding: 20px;
+    margin: 20px;
+    font-size: 2em;
+    background-color: pink;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.25s;
+}
+.button:hover{
+    background-color: #c46b7e;
+}
